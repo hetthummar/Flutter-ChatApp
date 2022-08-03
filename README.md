@@ -3,6 +3,8 @@
 Chat application built with flutter and socket IO. You can find complete backend built with node js and socket IO [here](https://github.com/hetthummar/Chat-App-Backend).
 
 
+![App Screenshot](https://firebasestorage.googleapis.com/v0/b/resume-b40bc.appspot.com/o/chat_app_ss_1.png?alt=media&token=2b38f613-442d-47f7-81e5-46703f199f9f)
+
 
 ## Tech Stack
 
