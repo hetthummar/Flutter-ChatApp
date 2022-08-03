@@ -7,7 +7,6 @@ import 'package:socketchat/config/api_config.dart';
 import 'package:socketchat/const/app_const.dart';
 import 'package:socketchat/const/msg_status_const.dart';
 import 'package:socketchat/const/msg_type_const.dart';
-import 'package:socketchat/const/socket_const.dart';
 import 'package:socket_io_client/socket_io_client.dart';
 import 'package:socketchat/data/data_manager.dart';
 import 'package:socketchat/data/local/app_databse.dart';
