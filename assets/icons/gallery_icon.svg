@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+  <g id="Group_2355" data-name="Group 2355" transform="translate(-25 -747)">
+    <g id="Icon" transform="translate(25 747)">
+      <rect id="Background" width="22" height="22" rx="6" fill="#bfc4d3"/>
+    </g>
+    <g id="Icon_feather-image" data-name="Icon feather-image" transform="translate(25.5 747.5)">
+      <path id="Path_3197" data-name="Path 3197" d="M5.819,4.5h9.23a1.319,1.319,0,0,1,1.319,1.319v9.23a1.319,1.319,0,0,1-1.319,1.319H5.819A1.319,1.319,0,0,1,4.5,15.048V5.819A1.319,1.319,0,0,1,5.819,4.5Z" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.4"/>
+      <path id="Path_3198" data-name="Path 3198" d="M12.478,11.489a.989.989,0,1,1-.989-.989A.989.989,0,0,1,12.478,11.489Z" transform="translate(-3.363 -3.363)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.4"/>
+      <path id="Path_3199" data-name="Path 3199" d="M18.048,18.3l-3.3-3.3L7.5,22.252" transform="translate(-1.681 -5.885)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.4"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,1 @@
+enum msgTypeEnum {txt,image}
